@@ -34,7 +34,7 @@
         </translation>
       </itext>
       <instance>
-        <data id="household_edit" prefix="J1!household_edit!" delimiter="#" version="2024-09-03  13-15">
+        <data id="contact:household:edit" prefix="J1!contact:household:edit!" delimiter="#" version="2024-09-22  11-34">
           <inputs>
             <meta>
               <location>
